@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="8" assertions="52" failures="0" errors="0" time="6.886505">
+    <testsuite name="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" tests="8" assertions="52" failures="0" errors="0" time="6.886505">
+      <testcase name="test_101_createConsumer" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="51" assertions="2" time="1.652537"/>
+      <testcase name="test_102_getConsumers" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="85" assertions="4" time="0.701908"/>
+      <testcase name="test_103_getConsumer" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="122" assertions="2" time="0.607286"/>
+      <testcase name="test_104_addNewPaymentCard" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="158" assertions="2" time="0.920756"/>
+      <testcase name="test_105_updateConsumerCard" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="188" assertions="2" time="0.720010"/>
+      <testcase name="test_106_deleteConsumerCard" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="217" assertions="1" time="0.728562"/>
+      <testcase name="test_107_createRecommendations" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="235" assertions="38" time="1.025152"/>
+      <testcase name="test_108_deleteConsumer" class="MasterCard\Api\TravelRecommender\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-TravelRecommender-Php/workspace/generated-code/travel-recommender/php/sdk/Test/MasterCard/Api/TravelRecommender/AllTest.php" line="349" assertions="1" time="0.530294"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

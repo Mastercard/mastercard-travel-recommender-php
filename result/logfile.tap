@@ -1,0 +1,10 @@
+TAP version 13
+ok 1 - MasterCard\Api\TravelRecommender\AllTest::test_101_createConsumer
+ok 2 - MasterCard\Api\TravelRecommender\AllTest::test_102_getConsumers
+ok 3 - MasterCard\Api\TravelRecommender\AllTest::test_103_getConsumer
+ok 4 - MasterCard\Api\TravelRecommender\AllTest::test_104_addNewPaymentCard
+ok 5 - MasterCard\Api\TravelRecommender\AllTest::test_105_updateConsumerCard
+ok 6 - MasterCard\Api\TravelRecommender\AllTest::test_106_deleteConsumerCard
+ok 7 - MasterCard\Api\TravelRecommender\AllTest::test_107_createRecommendations
+ok 8 - MasterCard\Api\TravelRecommender\AllTest::test_108_deleteConsumer
+1..8

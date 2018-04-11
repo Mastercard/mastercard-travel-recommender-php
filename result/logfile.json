@@ -1,0 +1,113 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 8
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "tests": 8
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_101_createConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_101_createConsumer",
+    "status": "pass",
+    "time": 1.6525368690491,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_102_getConsumers"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_102_getConsumers",
+    "status": "pass",
+    "time": 0.70190811157227,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_103_getConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_103_getConsumer",
+    "status": "pass",
+    "time": 0.60728597640991,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_104_addNewPaymentCard"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_104_addNewPaymentCard",
+    "status": "pass",
+    "time": 0.9207558631897,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_105_updateConsumerCard"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_105_updateConsumerCard",
+    "status": "pass",
+    "time": 0.72001004219055,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_106_deleteConsumerCard"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_106_deleteConsumerCard",
+    "status": "pass",
+    "time": 0.72856211662292,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_107_createRecommendations"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_107_createRecommendations",
+    "status": "pass",
+    "time": 1.0251519680023,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_108_deleteConsumer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\TravelRecommender\\AllTest",
+    "test": "MasterCard\\Api\\TravelRecommender\\AllTest::test_108_deleteConsumer",
+    "status": "pass",
+    "time": 0.53029417991638,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

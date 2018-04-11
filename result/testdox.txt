@@ -1,0 +1,10 @@
+MasterCard\Api\TravelRecommender\All
+ [x] 101 createConsumer
+ [x] 102 getConsumers
+ [x] 103 getConsumer
+ [x] 104 addNewPaymentCard
+ [x] 105 updateConsumerCard
+ [x] 106 deleteConsumerCard
+ [x] 107 createRecommendations
+ [x] 108 deleteConsumer
+
